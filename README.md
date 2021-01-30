@@ -1,3 +1,6 @@
+# final project for Library Juice Course Jan 2021
+This digital project on Thomas Donworth a limerick soldier in world war one, was created using [Collection Builder](https://collectionbuilder.github.io/) , an open source tool with excellent tutorials, which walk you through step by step how to create your digital project.  Collection builder can help you build your digital exhibition by using Github and Github pages, which is ideal for smaller collections such as this. You can use github to store your digital objects and metadata associated with same, you can copy a template from collection builder github into your own github site and then turn it into a website by turning on github pages in the settings in the repository. 
+
 # collectionbuilder-gh
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
